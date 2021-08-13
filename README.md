@@ -14,8 +14,8 @@ The else statement would continue on with the calculation for the images that ar
 
 Model Used:
 In this program, there are two main models used and one mathematical formula used, they are:
-⦁	haarcascade_frontalface_default.xml
-⦁	shape_predictor_68_face_landmarks.dat
-⦁	euclidean distance
-
+-  haarcascade_frontalface_default.xml
+-  shape_predictor_68_face_landmarks.dat
+-  euclidean distance
+NOTE: These are existing models available online, I use them to create the program but it is not my mathematical model. Also the model "shape_predictor_68_face_landmarks.dat" was too large in size to be uploaded to the repository
 
