@@ -18,5 +18,5 @@ In this program, there are two main models used and one mathematical formula use
 -  shape_predictor_68_face_landmarks.dat
 -  euclidean distance
 
-NOTE: These are existing models available online, I use them to create the program but it is not my mathematical model. Also the model "shape_predictor_68_face_landmarks.dat" was too large in size to be uploaded to the repository
+NOTE: These are existing models available online, I use them to create the program but it is not my mathematical model. Also the model "shape_predictor_68_face_landmarks.dat" was too large in size to be uploaded to the repository. Models are existing model that I used to run the program. I did not create these model
 
