@@ -17,5 +17,6 @@ In this program, there are two main models used and one mathematical formula use
 -  haarcascade_frontalface_default.xml
 -  shape_predictor_68_face_landmarks.dat
 -  euclidean distance
+
 NOTE: These are existing models available online, I use them to create the program but it is not my mathematical model. Also the model "shape_predictor_68_face_landmarks.dat" was too large in size to be uploaded to the repository
 
